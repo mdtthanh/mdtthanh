@@ -34,7 +34,6 @@
   &nbsp;
   <br>
 </div>
-<br>
 
 <h2 align="center">👽 Technologies and Tools 👽</h2>
 <div align="center">
@@ -57,7 +56,6 @@
   &nbsp;
   <br>
 </div>
-<br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -71,7 +69,6 @@
   </a>
 </div>
 <br>
-<br>
 <h2 align="center">📞 Contact me 📞</h2>
 <br>
 <!-- https://icons8.com -->
@@ -82,12 +79,11 @@
   <a href="https://www.instagram.com/t_hanh_dao/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="mdtthanh-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
+  <a href="mailto:maithanh0131@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="mdtthanh-email" />
   </a>
 </div>
 
-<br>
 
 <!-- <h2 align="center">📑 My Favorites Quote 📑</h2>
 <div align="center">
