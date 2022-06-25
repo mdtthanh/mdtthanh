@@ -1,7 +1,7 @@
-  <!-- <a href="#" target="_blank">
-    <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <a href="#" target="_blank">
+    <img src="svg/thanhdao.svg" width="1200" alt="thanhdao" />
   </a>
-   -->
+  
   <h2 align="center">💻 Programing Language 💻</h2>
   <div align="center">
     <br>
@@ -92,6 +92,6 @@
 <div align="center">
   <br>
   <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/thanh-quotes.svg" width="846" height="150" alt="thanhdao-quotes" />
   </a>
 </div> -->
