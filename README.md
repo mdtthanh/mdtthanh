@@ -21,6 +21,7 @@
     &nbsp;
     <br>
   </div>
+  <br>
 
 <h2 align="center">🛠 Frameworks and Libraries 🛠</h2>
 <div align="center">
@@ -33,7 +34,7 @@
   &nbsp;
   <br>
 </div>
-
+<br>
 
 <h2 align="center">👽 Technologies and Tools 👽</h2>
 <div align="center">
@@ -56,7 +57,7 @@
   &nbsp;
   <br>
 </div>
-
+<br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -70,7 +71,7 @@
   </a>
 </div>
 <br>
-
+<br>
 <h2 align="center">📞 Contact me 📞</h2>
 <br>
 <!-- https://icons8.com -->
