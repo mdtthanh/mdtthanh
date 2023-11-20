@@ -1,7 +1,3 @@
-  <a href="#" target="_blank">
-    <img src="svg/thanhdao.svg" width="1200" alt="thanhdao" />
-  </a>
-  
   <h2 align="center">💻 Programing Language 💻</h2>
   <div align="center">
     <br>
